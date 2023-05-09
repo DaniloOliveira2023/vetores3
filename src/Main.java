@@ -22,6 +22,7 @@ public class Main {
                     menorDiferenca = diferenca;
                 }
             }
+            System.out.println("teste");
             if (menorDiferenca < 0) {
                 System.out.println("A maior diferença entre números é de " + menorDiferenca * (-1));
             } else {
